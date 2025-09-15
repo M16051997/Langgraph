@@ -1,0 +1,12 @@
+langgraph 
+langsmith
+langchain[openai]
+langchain-google-genai
+python-dotenv
+pypdf
+faiss-cpu
+langchain-community
+google-generativeai
+langchain-tavily # Search engine tool
+tavily-python
+# pip install -U "langchain[google-genai]"
