@@ -10,3 +10,7 @@ google-generativeai
 langchain-tavily # Search engine tool
 tavily-python
 # pip install -U "langchain[google-genai]"
+
+pandas
+matplotlib
+seaborn
